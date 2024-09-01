@@ -1,0 +1,28 @@
+'Assignments': [
+    {
+    'AssignmentId': '3NKQQ8O39Z86RI0O1RCXRBGGAG7UDW', 
+    'WorkerId': 'A3FMLV7U8J5YYB', 
+    'HITId': '3J9UN9O9J4V1RYQ6NEFNGIS7C9Y0JO', 
+    'AssignmentStatus': 'Submitted', 
+    'AutoApprovalTime': datetime.datetime(2023, 12, 16, 17, 40, 59, tzinfo=tzlocal()), 
+    'AcceptTime': datetime.datetime(2023, 11, 16, 17, 40, 48, tzinfo=tzlocal()), 
+    'SubmitTime': datetime.datetime(2023, 11, 16, 17, 40, 59, tzinfo=tzlocal()), 
+    'Answer': '
+    <?xml version="1.0" encoding="UTF-8" standalone="no"?>\n
+    <QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">\n
+        <Answer>\n
+            <QuestionIdentifier>insFollowers</QuestionIdentifier>\n
+            <SelectionIdentifier>be</SelectionIdentifier>\n
+        </Answer>\n
+        <Answer>\n
+            <QuestionIdentifier>factCheck</QuestionIdentifier>\n
+            <SelectionIdentifier>store</SelectionIdentifier>\n
+        </Answer>\n
+        <Answer>\n
+            <QuestionIdentifier>song</QuestionIdentifier>\n
+            <SelectionIdentifier>sad</SelectionIdentifier>\n
+        </Answer>\n
+    </QuestionFormAnswers>\n
+    '
+    }
+]

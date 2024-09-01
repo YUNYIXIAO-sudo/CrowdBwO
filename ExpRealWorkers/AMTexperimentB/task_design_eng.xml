@@ -1,0 +1,113 @@
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2017-11-06/QuestionForm.xsd">
+
+  <Overview>
+    <Title>
+      Please answer the following questions.
+    </Title>
+    <Text>
+      Answer 3 questions without searching for any information on the Internet. It will take you about one minute. 
+      The data we collect is for the academy use (except for the user ID). This task was approved by the IRB of the University of Tsukuba. 
+      Feel free to stop the tasks at any time you want to; in that case, we will eliminate your data and will not pay the reward. 
+      Only participants above 18 years old will be considered.  
+      If you have any problem, contact us: Atsuyuki Morishima and Yunyi Xiao, mlab-experiments@mlab.info.
+    </Text>
+  </Overview>
+
+  <Question>
+    <QuestionIdentifier>viewingHours</QuestionIdentifier>
+    <DisplayName>Question 1</DisplayName>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <Text>
+        Til 2023/04/04, how many total viewing hours do you think the TV series The Night Agent had?
+      </Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>50</SelectionIdentifier>
+            <Text>50 million ~ 100 million</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>350</SelectionIdentifier>
+            <Text>350 million ~ 400 million</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>idk</SelectionIdentifier>
+            <Text>I don't know</Text>
+          </Selection>
+        </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+
+  <Question>
+    <QuestionIdentifier>factCheck</QuestionIdentifier>
+    <DisplayName>Question 2</DisplayName>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <Text>
+        Which following event do you think happened at the specified time?
+      </Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>store</SelectionIdentifier>
+            <Text>Apple opens first Vietnam store in Ho Chi Minh City. (2023/04/06)</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>renewable</SelectionIdentifier>
+            <Text>Apple says more suppliers are committing to renewable energy. (2023/04/06)</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>idk</SelectionIdentifier>
+            <Text>I don't know</Text>
+          </Selection>
+        </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+
+  <Question>
+    <QuestionIdentifier>song</QuestionIdentifier>
+    <DisplayName>Question 3</DisplayName>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <Text>
+        What kind of song is the Coffin Song?
+      </Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>sad</SelectionIdentifier>
+            <Text>A sad song</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>horror</SelectionIdentifier>
+            <Text>A horror song</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>peace</SelectionIdentifier>
+            <Text>A peaceful song</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>exciting</SelectionIdentifier>
+            <Text>An exciting song</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>idk</SelectionIdentifier>
+            <Text>I don't know</Text>
+          </Selection>
+        </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+</QuestionForm>

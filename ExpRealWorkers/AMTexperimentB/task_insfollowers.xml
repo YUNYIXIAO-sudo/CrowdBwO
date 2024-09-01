@@ -1,0 +1,29 @@
+  <Question>
+    <QuestionIdentifier>insFollowers</QuestionIdentifier>
+    <DisplayName>Question 1</DisplayName>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <Text>
+        Til 2023/04/16, who do you think has more followers on Instagram, Billie Eilish or Ariana Grande?
+      </Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>be</SelectionIdentifier>
+            <Text>Billie Eilish</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>ag</SelectionIdentifier>
+            <Text>Ariana Grande</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>idk</SelectionIdentifier>
+            <Text>I don't know</Text>
+          </Selection>
+        </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>

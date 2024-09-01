@@ -1,0 +1,112 @@
+<HTMLQuestion xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2011-11-11/HTMLQuestion.xsd">
+    <HTMLContent><![CDATA[
+    <!-- YOUR HTML BEGINS -->
+    <!DOCTYPE html>
+
+
+    <html>
+        <head>
+        <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
+        <script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+        </head>
+
+        <body>
+        <form name='mturk_form' method='post' id='mturk_form' action='https://www.mturk.com/mturk/externalSubmit'>
+        <input type='hidden' value='' name='assignmentId' id='assignmentId'/>
+
+
+            <div>
+                <h2>Please complete the following tasks.</h2>
+                <p style="width:60%">Five questions are given to you. Please answer them by yourself without searching for anything on the Internet.
+                </p>
+            </div>
+
+            <div>
+                <h3>Question 1. What kind of song is the Coffin Song？</h3>
+                <div>
+                    <input type="radio" id="sad" name="coffin" required="required">
+                    <label>Sad Song</label>
+                    <input type="radio" id="horror" name="coffin">
+                    <label>Horror Song</label>
+                    <input type="radio" id="happy" name="coffin">
+                    <label>Happy Song</label>
+                    <input type="radio" id="peaceful" name="coffin">
+                    <label>Peaceful Song</label>
+                    <input type="radio" id="idk" name="coffin">
+                    <label>I don't know.</label>
+                </div>
+                
+            </div>
+
+            <div style="height:10%"></div>
+
+            <div>
+                <h3>Question 2. Til 2023/04/04, how many viewing hours do you think the TV series The Night Agent has?</h3>
+                <div>
+                    <input type="radio" id="50" name="drama" required="required">
+                    <label>50 million ~ 100 million hours</label>
+                    <input type="radio" id="350" name="drama">
+                    <label>350 million ~ 400 million hours</label>
+                    <input type="radio" id="idk" name="drama">
+                    <label>I don't know.</label>
+                </div>
+
+            </div>
+
+            <div style="height:10%"></div>
+
+            <div>
+                <h3>Question 3. Til 2023/04/16, who do you think has more followers on Instagram, Billie Eilish or Ariana Grande?</h3>
+                <div>
+                    <input type="radio" id="billie" name="music" required="required">
+                    <label>Billie Eilish</label>
+                    <input type="radio" id="ariana" name="music">
+                    <label>Ariana Grande</label>
+                    <input type="radio" id="idk" name="music">
+                    <label>I don't know.</label>
+                </div>
+
+            </div>
+
+            <div style="height:10%"></div>
+
+            <div>
+                <h3>Question 4. If you are using Python, kindly tell us the version you are using.
+                    <br>(You can check it on your local server; only write one of them if you are using different versions.)</h3>
+                <div>
+                    <label>Write it down here:</label>
+                    <input type="text" id="python" name="python"><br>
+                    <input type="checkbox" id="idk" name="python">
+                    <label>I don't use Python.</label>
+                </div>
+
+            </div>
+
+            <div style="height:10%"></div>
+
+            <div>
+                <h3>Question 5. Which following event do you think happened at the specified time?</h3>
+                <div>
+                    <input type="radio" id="vietnam" name="apple">
+                    <label>Apple opens first Vietnam store in Ho Chi Minh City. (2023/04/06)</label><br>
+                    <input type="radio" id="reproduct" name="coffin" required="apple">
+                    <label>Apple says more suppliers are committing to renewable energy. (2023/04/06)</label><br>
+                    <input type="radio" id="idk" name="apple">
+                    <label>I don't know</label>
+                </div>
+
+            </div>
+
+            <div style="height:4%; border-bottom: solid;"></div>
+
+            <p>That's all. We appreciate your cooperation.</p>
+
+        </form>
+        <script language='Javascript'>turkSetAssignmentID();</script>
+        </body>
+    </html>
+
+    <!-- YOUR HTML ENDS -->
+    ]]></HTMLContent>
+<FrameHeight>600</FrameHeight>
+</HTMLQuestion>

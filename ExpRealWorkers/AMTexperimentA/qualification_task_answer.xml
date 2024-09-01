@@ -1,0 +1,16 @@
+<AnswerKey xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/AnswerKey.xsd">
+
+  <Question>
+    <QuestionIdentifier>viewingHours</QuestionIdentifier>
+    <AnswerOption>
+      <SelectionIdentifier>350</SelectionIdentifier>
+      <AnswerScore>1</AnswerScore>
+    </AnswerOption>
+    <AnswerOption>
+      <SelectionIdentifier>50</SelectionIdentifier>
+      <AnswerScore>2</AnswerScore>
+    </AnswerOption>
+  </Question>
+
+</AnswerKey>
+

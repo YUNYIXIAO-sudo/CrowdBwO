@@ -1,0 +1,17 @@
+import numpy as np
+
+#parameters for the assignments
+class para():
+    nArms = 2
+    budget = 1500 #the budget is $15
+    timeLimit = 25 #the time limit is 50min
+    beta = 0.2
+    batchCreateTime = 1
+    updateRate = 2
+    quesNum = 3
+    trainWindow = 30
+    targetAnswers = 30
+    omega = 0.02
+
+    sd = np.array([[5, 30], [0.1, 0.1], [0.5, 0.5], [5, 30], [5, 30]])
+    mu = np.array([[0.5, 0.5], [-1, -1], [100, 200], [20, 50]])

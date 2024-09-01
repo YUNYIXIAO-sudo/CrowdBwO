@@ -1,0 +1,3281 @@
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3DHE4R9OCXE0JQ1DKX3YDHR3C3AG2R,A3H1A5PGLBBWR0,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:28:46+09:00,2024-03-20 17:18:27+09:00,2024-03-20 17:18:46+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3EFE17QCRD87OLDMYI0MPZG8PXMHSU,A1DXDFRHO1A157,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:28:50+09:00,2024-03-20 17:18:27+09:00,2024-03-20 17:18:50+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3XIQGXAUMDBIRDT9FJKXXU86Q9SX7G,A30F4482NDPVJQ,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:28:51+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:18:51+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WYGZ5XF3XIYQBEU433J2RW0HEQSK9,A3R3MQ5ZQDEUKD,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:02+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:19:02+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TEM0PF1Q60QBWO83KYCO8VR2DAD0U,A3NPGBIHGE2BVF,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:02+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:19:02+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+337RC3OW065P29DGJYKPSETM5IPVLK,AGANKP4PUZ4NC,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:05+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:19:05+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+30IQTZXKAL9492TPUKZOIFYJIVMX0G,AOQP9IL4MK3ZQ,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:09+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:19:09+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3SPJ03342260BDKLLOVWJYKOJAMJYF,ABF3Q344W8SK4,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:21+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:19:21+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZDAD0O1T2G5PBQGSMNY2Q0OF6JXTS,A3RZROGDYP8VM5,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:22+09:00,2024-03-20 17:18:59+09:00,2024-03-20 17:19:22+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3O7L7BFSHFS6AXJO35Y20UD8OJSIEN,ADOI1DZ147PM2,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:31+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:19:31+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3OUYGIZWR81Z0TRY8TP7O2CGGWE0PW,A2FAAOGWUTTTF5,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:32+09:00,2024-03-20 17:18:59+09:00,2024-03-20 17:19:32+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3URFVVM166L9UJ5KT91T47216KOUZD,A13X2HZFIG10KO,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:36+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:19:36+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3M1CVSFP618G1IQV081PDDE3UEBQA3,A24K0KAZXZDTUB,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:37+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:19:37+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3A7Y0R2P2PRBB8UBGS9U0KDFH4SXJN,A2RIISXYMALT3T,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:45+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:19:45+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+33M4IA01QH4S9WDOOXI32BZ6RLMXRF,A1OAZCVZRC00F0,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:46+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:19:46+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TOK3KHVJULVX4FHESX1EHHDE5NO72,A30AXLI8982MRN,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:52+09:00,2024-03-20 17:18:59+09:00,2024-03-20 17:19:52+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3B837J3LDPZKDFRPUNCG33IEC6KSR2,A2LJBVXXP1VBAC,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:55+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:19:55+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+34T446B1C1HG64IU3O3142D9HDZ0CI,A3V3T5UUIS883W,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:29:59+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:19:59+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3X1FV8S5JYU9GHZF87N9FMOE913VGE,A33VE53A8N8DNF,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:03+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:20:03+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TU5ZICBRE42IUXG3AHBHM884QBQ8Z,A3OUAR84WQO03Y,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:11+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:20:11+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+37Q970SNZFBWKAS8WTX1XC0188QS16,A2I6HVUDBTGD1,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:13+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:20:13+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+32M8BPYGAUP4UBFF90OQ0XYK1Z7IG4,A91WIKZL0LKB3,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:15+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:20:15+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3MHW492WW1G98RV1JAL4SR8B5NFMVD,A1BBNX68DRRQ6F,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:17+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:20:17+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3OS46CRSLG27JOA9WUEN3VBPFN0V6C,AD0KOGRQZG4AL,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:19+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:20:19+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+35LDD5557B7VSG1PK67XQIXUPP8KMP,AOOU57BC3GK9J,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:19+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:20:19+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3B4YI393VAZWEUR29CCLTDNAY83SSQ,A2GUSVGAKNEGQF,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:28+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:20:28+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3DUZQ9U6SNRC6M8637HQ407HXCXVSY,A140CEAA0194YY,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:29+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:20:29+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3HWRJOOET65V4BMK8HSG4WJVXHUSEP,A3AP9VARTGQH3T,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:31+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:20:31+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZQIG0FLQFJ5D3PFNCRR1PA23PTVWD,A2FRAI1RGFALVQ,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:38+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:20:38+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3QILPRALQ6YHFXKONIPUDSD3ZFON89,A1T3ZNKR5GG0TP,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:43+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:20:43+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3E47SOBEYRZRDZZA7ES7A6D537FICU,A1WV574WRG8FKC,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:44+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:20:44+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3LWJHTCVCDPBX973BONHREPURUOQFG,AJVEN88IAR7O8,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:45+09:00,2024-03-20 17:19:00+09:00,2024-03-20 17:20:45+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3Z7EFSHGNAHO3UO560S8DG0KRKJXC9,A3GFZLXTN17BLM,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:48+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:20:48+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3DBQWDE4Y71YSF1MPKIR183CXPNN57,A8BKATQP7SLOW,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:48+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:20:48+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3LWJHTCVCDPBX973BONHREPURUOFQ5,A3AVLNZO26ZSE4,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:49+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:20:49+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3K5TEWLKGWENC85AYVNC0Y1UOEVVI6,A3CNROLP8BIHP2,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:52+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:20:52+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>exciting</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3IFS6Q0HJJM7KGO640I7PBHNPA1SIY,AXG427E7TV68X,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:30:58+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:20:58+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TXWC2NHN0TE9FV306CUCIIK6KES9F,A1UKGV9F0QODK0,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:00+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:21:00+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3KRVW3HTZOOTGZEXPFGZH4O46JLMS8,A197703CQQGQB5,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:03+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:21:03+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3M81GAB8A1MLKSVN6M1L8OY9CWWQBY,A4V0XAMLFF7Y3,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:04+09:00,2024-03-20 17:18:59+09:00,2024-03-20 17:21:04+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+35BLDD71I7097YUKYZBY0T4KKRXVZ3,A3DL95ZYIYGTTS,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:06+09:00,2024-03-20 17:19:00+09:00,2024-03-20 17:21:06+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3G5F9DBFOQ0NGDUQSD5R0M0FO1GVHD,A2FFCQ9WU6R764,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:11+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:21:11+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3OUYGIZWR81Z0TRY8TP7O2CGGWDP0K,A1EDXXF0ZAPB9B,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:17+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:21:17+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3FFJ6VRIL2R7J74UVYZNF5B4UIJ0IK,A1L92W5SO5UPS0,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:19+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:21:19+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+31HQ4X3T3TD9AHWCP3FKHR9F6EVSLC,A2XWS3RAZ0NM4Q,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:24+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:21:24+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+35L9RVQFCPLN3Y5QNNVM40YWAU7HUA,AMH0GT8UM7S1C,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:26+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:21:26+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+339ANSOTR659WXBYZR95YPQD8GOIK7,A2N5D3P3HPAOCI,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:33+09:00,2024-03-20 17:18:59+09:00,2024-03-20 17:21:33+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3NGI5ARFTU8Z7ICG4CT727VQLOJP1N,A5Z02VDX7Z6RK,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:35+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:21:35+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZSANO2JCGANAPMG3SCMME4V9I9FSU,A31H007ODMPLLJ,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:36+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:21:36+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3PM8NZGV8ZJSXVYOBIT3XLP1VZKXQE,A3B4NFNT0WT6Q,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:37+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:21:37+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3BF51CHDTWD7NCTAPGH2FTAPU540HR,A3TRKL6KGZPJFV,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:39+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:21:39+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3LQ8PUHQFMVIU7AQT668LXALGZKHI2,A22YIGJ0CHI9IR,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:42+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:21:42+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+39GXDJN2OUHUN2TXP9BLN97GLIQV8Y,AWOL38XDW8O9,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:48+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:21:48+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+33PPUNGG398HERD3PF6OZWFHZLKZRE,A1HCDJQCD5LKP5,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:56+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:21:56+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3PEIJLRY6UWXHSUANRS9PA7NJ01XWI,AFFMX01YSI96K,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:31:58+09:00,2024-03-20 17:19:00+09:00,2024-03-20 17:21:58+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+384PI804XT4WDL7Q0AT1J7HR3GKS03,A2X9XWYTLZBGE6,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:02+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:22:02+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3C8HJ7UOP8XQHB0BK7A7DXL7TYLZMQ,A10FSZLB75VZ14,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:21+09:00,2024-03-20 17:18:27+09:00,2024-03-20 17:22:21+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+378XPAWRUDG3KK2CN0WG4BNH34UIAS,A1I96TVPQ37UOK,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:29+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:22:29+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+358010RM5FWK23U5XHND38O9CRZVX6,AF6DVGK1GTFER,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:32+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:22:32+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WMOAN2SRC0FQ9G1VB0456XBADPVNM,A1ZFUHVIPQOVGK,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:43+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:22:43+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3FK0YFF9P0JSYEPAX2MVFNROWGRVV3,AOVITI6FUD439,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:49+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:22:49+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3GNA64GUZF7JVCEE5CA852YH20AQ5X,AFVUJCJ9KQ33I,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:52+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:22:52+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WRFBPLXRBRVE0EIB1UYMB5SJTWN3H,A2NXJL051MLYDW,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:54+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:22:54+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WOKGM4L72JHFTFXTTCSZ27Q6RI0OF,A10Z8LOD0RXCMZ,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:56+09:00,2024-03-20 17:18:59+09:00,2024-03-20 17:22:56+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+33PPUNGG398HERD3PF6OZWFHZLKRZ6,A12D8YONW8TYWU,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:32:57+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:22:57+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+39GAF6DQWS3CC29CQO268ZK87CKV1E,A40KYEVNFE4CM,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:33:05+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:23:05+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3MAOD8E57RD7UYLWVQ1MTRUWQOXNXH,A1KJ9O5JU7532S,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:33:14+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:23:14+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+33LK57MYLU8TF6DG446TP6KDLN3ZS2,A242BLGV9HOCKK,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:33:17+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:23:17+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3URFVVM166L9UJ5KT91T47216KOZUI,A1XIXGOB9KUMPJ,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:33:24+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:23:24+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3C6FJU71TRW9PTVFXNZAQ0TZ0QKUYM,A2O24ZAQLDQ2E4,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:33:35+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:23:35+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3300DTYQT3KJRV77GD3B9W4UFT9QEY,ACVNJVUFNGWG5,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:33:40+09:00,2024-03-20 17:18:59+09:00,2024-03-20 17:23:40+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3E1QT0TDFQCP1W9XQ2C28KHMDGUI8O,A2P3LCRMMPZ25G,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:33:44+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:23:44+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3I3WADAZ9R7GA01YQZI4GX3HNZSO5N,A38E4X68V766WA,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:34:03+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:24:03+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+36NEMU28XGGMNGV69KQ0ETRPCWHMWN,A1361IJWKSQCNT,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:34:04+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:24:04+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZSANO2JCGANAPMG3SCMME4V9I9SF7,A32SGW2FZ9KVJK,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:34:06+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:24:06+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3U0SRXB7CE8NX2ZKMRVU4988P7CNRL,AMDNG6FGS5JML,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:34:20+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:24:20+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3W2LOLRXLCIMPWEHPE3ECHR4VC7KRD,A3POEVXV1KKQPU,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:34:37+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:24:37+09:00,2024-03-20 17:35:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+34HJIJKLP6ZT416VD6L86XRBJWUV4R,A141BEGMEHN31L,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:34:58+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:24:58+09:00,2024-03-20 17:35:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3JNQLM5FT5PG5IFEVO0EQ9WB8KWL22,A17TJNDBZURLL1,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:35:12+09:00,2024-03-20 17:19:00+09:00,2024-03-20 17:25:12+09:00,2024-03-20 17:35:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+36TFCYNS45DFK2ZLSS69O7X04COXHI,AEZ1S430TO6OJ,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:35:29+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:25:29+09:00,2024-03-20 17:36:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WETL7AQWUBROB8C71YCSU56S8X358,A2LI71A9ZRA199,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:35:34+09:00,2024-03-20 17:18:38+09:00,2024-03-20 17:25:34+09:00,2024-03-20 17:36:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+358010RM5FWK23U5XHND38O9CRZXV8,A2JDA7GSTK3UUI,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:36:04+09:00,2024-03-20 17:19:20+09:00,2024-03-20 17:26:04+09:00,2024-03-20 17:36:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3G5W44VEU8LV06539392DDDXT3WKGH,A1IWXCW1NHE9N7,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:36:42+09:00,2024-03-20 17:18:27+09:00,2024-03-20 17:26:42+09:00,2024-03-20 17:37:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3QIYRE09Y4KZ4X03OXGFYIQVL9IN1P,AMY3B7W66X1SG,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:37:26+09:00,2024-03-20 17:18:37+09:00,2024-03-20 17:27:26+09:00,2024-03-20 17:38:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3J88R45B2H17XJX9B5EEXGZRQ3YXPN,AAZOM1BFHCJWK,378G7J1SJM1MO85Z2KXFD1QMJVJEW9,Approved,2024-03-20 17:37:52+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:27:52+09:00,2024-03-20 17:38:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+32RIADZIST7DC9PRJBG3VA74KS0S4J,A3R5FWQQAYLEJ1,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:29:29+09:00,2024-03-20 17:18:30+09:00,2024-03-20 17:19:29+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3NC5L260MPP8CXUNWBVD29UUCT6FOX,A2NSJ2XGJK9PH7,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:29:30+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:19:30+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3Z9WI9EOZ0R9020ET9RKYDPY839KHG,AL50DOPEBA3WP,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:30:02+09:00,2024-03-20 17:18:36+09:00,2024-03-20 17:20:02+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3V0Z7YWSIZ3J1NR89S2KDIUDZIYV2V,A133YOK64BNNYI,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:30:24+09:00,2024-03-20 17:18:34+09:00,2024-03-20 17:20:24+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3UJ1CZ6IZISV8STRXGZD02DIKOVS5O,A9WH91TYQX57,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:30:30+09:00,2024-03-20 17:18:33+09:00,2024-03-20 17:20:30+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3R5F3LQFV3NEHELNXNPK51ACOY0OZU,A3IEIVMANWHX8R,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:30:37+09:00,2024-03-20 17:18:25+09:00,2024-03-20 17:20:37+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3LUY3GC6303DI4RITSAG3HM3OAJP7K,A1V11NV65IXG1P,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:30:52+09:00,2024-03-20 17:18:27+09:00,2024-03-20 17:20:52+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>exciting</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3LBXNTKX0SYM5WH2UGIHBQZCLZGX9S,A24NQS098N2ZQL,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:31:10+09:00,2024-03-20 17:18:29+09:00,2024-03-20 17:21:10+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3UNH76FOCT8QCLQ6OL8OZQC5N4HMYM,A30MI7BNWFV909,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:31:26+09:00,2024-03-20 17:18:30+09:00,2024-03-20 17:21:26+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3DZQRBDBSMISUD6NJXBKL5FY6S4S3Y,A2KIW9KLPNR6UK,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:31:38+09:00,2024-03-20 17:18:29+09:00,2024-03-20 17:21:38+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+32AT8R96GMCCT7J6YH7L8E5YJ5OSU6,A2RG8LFDG105JI,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:31:48+09:00,2024-03-20 17:19:44+09:00,2024-03-20 17:21:48+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3Z4XG4ZF49UMRRYSPOC3BU411TYX83,A46TMY50MGF7M,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:31:53+09:00,2024-03-20 17:18:28+09:00,2024-03-20 17:21:53+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3A7Y0R2P2PRBB8UBGS9U0KDFH4SJX9,A27XWTUKOYPF8G,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:32:21+09:00,2024-03-20 17:18:26+09:00,2024-03-20 17:22:21+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3R8YZBNQ9ILYIGSXT5P53MCDT65Q7C,A2YN685JW76YMR,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:33:13+09:00,2024-03-20 17:18:40+09:00,2024-03-20 17:23:13+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3AAPLD8UCDK83LQ1NI5CZ4CURG0HTJ,A3F8X1JN9U7A7D,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:33:13+09:00,2024-03-20 17:18:30+09:00,2024-03-20 17:23:13+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3MYYFCXHJ4AAM4G0OBMM6WO1WH6G4N,A2OTAC9VQGAWH4,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:33:30+09:00,2024-03-20 17:18:31+09:00,2024-03-20 17:23:30+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3MD9PLUKKJHWZTLBW8P7QCA7YOVZNQ,A30LQLL184QSBS,3KTZHH2ONJI9AV1ULF5SCTS9AQ7M8R,Approved,2024-03-20 17:34:26+09:00,2024-03-20 17:18:28+09:00,2024-03-20 17:24:26+09:00,2024-03-20 17:35:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3IRIK4HM3BNBKF495DJID3N0UGKC6U,A2KLIBLDVDV144,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:11+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:16:11+09:00,2024-03-20 17:26:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3K2755HG5T6H803Y62HXRFIV8FZFD0,A1B8QUOSZEH4S1,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:17+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:16:17+09:00,2024-03-20 17:26:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3GS6S824SR0S5YG6LL50R8GPHMQWNW,AZ87W9Z8WTACR,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:19+09:00,2024-03-20 17:15:47+09:00,2024-03-20 17:16:19+09:00,2024-03-20 17:26:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3KV0LJBBH3OHFKEKAQGURUJ8KH2RMP,A2MJQG58XN41OW,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:24+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:16:24+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3Q8GYXHFEQ5F1B4V0U9DLX90YL9C5E,A24QSOEL279R1F,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:27+09:00,2024-03-20 17:15:44+09:00,2024-03-20 17:16:27+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3L4D84MIL0VEPIUWBOR8XYPLTE9JHG,AGB6853RIDWJ8,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:30+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:16:30+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+38F5OAUN5OFL5NTUAF2BU8KC2J9H77,AGKH0TGFMSNEH,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:31+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:16:31+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3PDJHANYK6J21NFPR5XJOUKG78PH68,AILT4SWETTAUL,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:34+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:16:34+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3DL65MZB8EIFXUXOBV2GPRFDBE8CEF,A1OIJLXYHG239U,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:38+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:16:38+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3K4J6M3CXFWPOTWHXCWDJZA1OR2AGS,A1NAFEAI66B6MS,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:39+09:00,2024-03-20 17:15:48+09:00,2024-03-20 17:16:39+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3IUZPWIU1PARXSV3O8DKZGZLNRLWKR,A1TH9QF8FD0SF5,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:41+09:00,2024-03-20 17:15:44+09:00,2024-03-20 17:16:41+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+345LHZDEDYV89QYR826K06XMRPPU3G,A3V3F4X6GH6VPV,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:42+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:16:42+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3S3AMIZX3V8A5OJOF0RWJ9XSB27CDM,A3RZ9HYWONGA3Y,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:44+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:16:44+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3HYA4D452SMU5Q5I9DXGVWRRBOAF2R,A23J0G72AUTS1I,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:45+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:16:45+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3YJ6NA41JCJ62ZSKU1ZD67RCF5JJPL,A1ABRVTR49OA73,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:47+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:16:47+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3PIWWX1FJK9AGOPMZOUT9B5066DJJL,A3LBMZYPY37NRW,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:49+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:16:49+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3MH9DQ757XF932AF3HD4J0MVVUUGUA,AR6H3B01WJ1FQ,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:51+09:00,2024-03-20 17:15:41+09:00,2024-03-20 17:16:51+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+36NEMU28XGGMNGV69KQ0ETRPCWGWMW,A1YSPZVXB2TYUL,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:56+09:00,2024-03-20 17:15:45+09:00,2024-03-20 17:16:56+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3EICBYG645ZN8AJGPWD7M7S5GM4CJ0,A35K2HHSU1MYG4,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:56+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:16:56+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+39DD6S19JQES5N8Y39MO0PGYKWUEZG,A3C5TMQP0L94K4,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:26:59+09:00,2024-03-20 17:15:45+09:00,2024-03-20 17:16:59+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+33FBRBDW6P2YOTNXYSGGXHJR0BAC8G,A2CFNTYGACVQF4,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:07+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:17:07+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3I7DHKZYGO3M4NO5RWZET3U3VY1F5S,A20OEK6BVW13NV,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:08+09:00,2024-03-20 17:15:47+09:00,2024-03-20 17:17:08+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+31N2WW6R9STJQ811DDBLE6WJH2AF32,A1M151WPTX57PC,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:13+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:17:13+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+35K3O9HUACGM06HY2XSHXX0G8R0FET,A2T95QRTXOXCRO,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:14+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:17:14+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3QUO65DNQVRXVFRDR0QCO9VXMGLOU5,A26OCFHK1TVNUT,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:14+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:17:14+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+37M28K1J0RGZFVMI5IHGGC2HGJJAJW,A1J2ZU4AH7V6N6,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:18+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:17:18+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+336YQZE83WHSAXGMDJ3ROTECSZDM56,A96TDNBSXG3NJ,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:18+09:00,2024-03-20 17:15:42+09:00,2024-03-20 17:17:18+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+32KTQ2V7REIBBKIYG9G809JEEVWM9X,A3JQAADFUWKL0X,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:18+09:00,2024-03-20 17:15:47+09:00,2024-03-20 17:17:18+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+36H9ULYP63XUBM3QGY38UDD8DZWJFI,A2Y69684WT44XU,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:21+09:00,2024-03-20 17:15:44+09:00,2024-03-20 17:17:21+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3A1COHJ8NKYP51YDKKUH88G7D3FH8U,A1TZ5A9YY4ESN1,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:30+09:00,2024-03-20 17:15:52+09:00,2024-03-20 17:17:30+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+351SEKWQS1KNEAVFSPLAM5245GBMDE,A3QB50HW9PDXB9,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:30+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:17:30+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3H7XDTSHKDUMV6ZKYHS51O7SGA5GW9,A2VEC20X98U3VC,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:37+09:00,2024-03-20 17:15:45+09:00,2024-03-20 17:17:37+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TVSS0C0E23Q0BLQIHRC07MH64DWTY,A324C5L6JIMN16,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:42+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:17:42+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+39K0FND3AIIPG3S38FU8W4UYKDEMAC,A3SMMI1Z1558QE,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:50+09:00,2024-03-20 17:15:48+09:00,2024-03-20 17:17:50+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+31T4R4OBOTJUOFIEONOAJHNWPR4C7T,ANZBO8QBL5XIU,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:50+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:17:50+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3OS4RQUCRAIOT35ES6QRWPUV5UNFBT,A2A3GVQG2FB30T,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:27:53+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:17:53+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3QL2OFSM97LJR0A14U5ZFE9MP69CN4,A2HQR0V0UY5O60,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:28:02+09:00,2024-03-20 17:15:52+09:00,2024-03-20 17:18:02+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3R0T90IZ1TFDH8TFHQS4PU0POUNCGW,A3MC0GSXYQ2P7A,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:28:14+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:18:14+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3OLF68YTNA4JAT0MMSQV1EAPNC2FAY,A1GO759UUXPXNO,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:28:29+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:18:29+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZQIG0FLQFJ5D3PFNCRR1PA23PTWVE,A34Z9LMI089LMT,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:28:48+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:18:48+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3IX2EGZR7CMREC8Z7T32B2RRGN7RJL,A3NPGBIHGE2BVF,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:28:49+09:00,2024-03-20 17:15:47+09:00,2024-03-20 17:18:49+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+31LM9EDVOMV6ZEG7EMML2IMHFQIJNP,AABZGLZ5QWCG0,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:29:07+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:19:07+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3VHP9MDGRON738XK66MM790DNFNCFX,ATW2SMRU3N52P,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:29:28+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:19:28+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3U0SRXB7CE8NX2ZKMRVU4988P7CRNP,A471YO38NM59O,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:29:38+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:19:38+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WLEIWSYHPKEJMWO43LGYH34R3NH2R,AVMRNLB8U26P2,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:29:43+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:19:43+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TS1AR6UQRH1RR2OFPEBRN8ZM4WF77,A3H3VJ97I647N4,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:29:43+09:00,2024-03-20 17:15:47+09:00,2024-03-20 17:19:43+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3BF51CHDTWD7NCTAPGH2FTAPU53H07,AEAT6O8D7UVK8,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:29:47+09:00,2024-03-20 17:15:47+09:00,2024-03-20 17:19:47+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TXD01ZLD5KTRMHV8GB3ABPS5PLU41,A344IO5IXCOO38,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:29:55+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:19:55+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3SNVL38CI5VIJUPY7HDJNMSIVB4CKZ,A3LZL0F6C98X8N,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:30:03+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:20:03+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WT783CTPCKHQRL4140QOJ9S8HVCBF,ACKZDP37NVZY0,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:30:08+09:00,2024-03-20 17:15:48+09:00,2024-03-20 17:20:08+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>exciting</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZSY5X72NYE5FNZWN6V7JY8DFHHOR1,ATPW1MWLW7RBL,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:30:21+09:00,2024-03-20 17:15:48+09:00,2024-03-20 17:20:21+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3XCC1ODXDME80ZCC2JNB833DUIZRQC,A3CNROLP8BIHP2,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:30:39+09:00,2024-03-20 17:15:52+09:00,2024-03-20 17:20:39+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>exciting</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3BC8WZX3V4Z8C0RCFYCBDTDIQ41RRD,AW9ODYOD9PYHX,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:31:03+09:00,2024-03-20 17:15:52+09:00,2024-03-20 17:21:03+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>peace</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3LKC68YZ3B6ANJGIM05D6XGU7WVWOB,A2C5HSMKN7QDM8,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:31:04+09:00,2024-03-20 17:15:48+09:00,2024-03-20 17:21:04+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+352YTHGROWGOM0BB8H44RW02BHJH4N,A2FHM2F9QKP0O0,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:31:25+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:21:25+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+320DUZ38G8P0PMZLRI9QCYDKEEWJGH,A12B9W69X0BQBF,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:31:31+09:00,2024-03-20 17:15:45+09:00,2024-03-20 17:21:31+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3O6CYIULEE450O0FIMHM538JPIKWUP,A39SK1E6IMQBD5,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:31:41+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:21:41+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3YW4XOSQKROCZNKCLYS1CDIPT5BU1O,A28PMEC3TSSU17,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:32:21+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:22:21+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3WI0P0II62VEBQ87XXHR84WEB3ARD7,A2TC7B46WQ695O,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:32:59+09:00,2024-03-20 17:15:42+09:00,2024-03-20 17:22:59+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3PXX5PX6LY1TXCO6HQ4ZIOJ48EAABB,A2LI71A9ZRA199,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:34:35+09:00,2024-03-20 17:15:44+09:00,2024-03-20 17:24:35+09:00,2024-03-20 17:35:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3OLQQLKKNTS2583ULNJ2CVS81YHJE0,A141BEGMEHN31L,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:34:46+09:00,2024-03-20 17:15:42+09:00,2024-03-20 17:24:46+09:00,2024-03-20 17:35:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+36PW28KO40ZR4F0QRH6PJWPPBBNAEB,ASDFYV4GVLWN,3DWGDA5POG7APIBI0MX4KFOENDD1V3,Approved,2024-03-20 17:35:22+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:25:22+09:00,2024-03-20 17:36:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task2
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3D8YOU6S9FN769L9R44I79961GRU6M,A2U9UDUD7A2F2N,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:26:59+09:00,2024-03-20 17:15:53+09:00,2024-03-20 17:16:59+09:00,2024-03-20 17:27:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3H0W84IWBL5J3WM7TSSBEMEZBFBRE0,A309UKNP6HY4V9,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:27:24+09:00,2024-03-20 17:15:44+09:00,2024-03-20 17:17:24+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3VD82FOHKRR19LAD595CU39RFGECOJ,A5LJZ6YFBAZ1V,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:27:51+09:00,2024-03-20 17:15:58+09:00,2024-03-20 17:17:51+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3NGMS9VZTMLE6KHUX8CNFFLGKSFFFB,A2L14J3889JZUA,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:28:06+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:18:06+09:00,2024-03-20 17:28:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3B837J3LDPZKDFRPUNCG33IEC6KRS1,A1DCYGTKS4H3J3,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:28:58+09:00,2024-03-20 17:15:56+09:00,2024-03-20 17:18:58+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3R2PKQ87NXB4MLB1K3MLD2IHXLJMIG,A3R5FWQQAYLEJ1,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:11+09:00,2024-03-20 17:15:59+09:00,2024-03-20 17:19:11+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+31EUONYN2W6X8UGDWQ0HKVXG0NUOVU,A2NSJ2XGJK9PH7,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:17+09:00,2024-03-20 17:16:13+09:00,2024-03-20 17:19:17+09:00,2024-03-20 17:29:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3LPW2N6LKU5BN5LVMLUDF3V65LGU56,A283J4A5D67UQY,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:23+09:00,2024-03-20 17:15:53+09:00,2024-03-20 17:19:23+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3RSDURM96BPS0XYT7NK5MI7WE2QEYP,A6VKWDANXZOQY,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:39+09:00,2024-03-20 17:15:44+09:00,2024-03-20 17:19:39+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+378XPAWRUDG3KK2CN0WG4BNH34UAIK,A370B9XQUIF6KY,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:44+09:00,2024-03-20 17:15:50+09:00,2024-03-20 17:19:44+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3634BBTX0PXYGBJKYGI8ICY80K7FI2,AKYEV48LP0J5Z,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:48+09:00,2024-03-20 17:15:53+09:00,2024-03-20 17:19:48+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3TXMY6UCAFR4UXNTKMXGJ84RUHWCQR,AL50DOPEBA3WP,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:53+09:00,2024-03-20 17:16:25+09:00,2024-03-20 17:19:53+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3PMBY0YE286Y2Y673KMUXDE2KHSC95,A2SKMZ3WGS6MRH,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:29:54+09:00,2024-03-20 17:15:46+09:00,2024-03-20 17:19:54+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3GA6AFUKOPR344S783ZLHR8WXHNH32,A28QAJMYF7IA8A,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:30:05+09:00,2024-03-20 17:15:49+09:00,2024-03-20 17:20:05+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZWFC4W1UVAB9AM3O3CHW4ZZNGQRFI,A133YOK64BNNYI,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:30:12+09:00,2024-03-20 17:15:45+09:00,2024-03-20 17:20:12+09:00,2024-03-20 17:30:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3L4PIM1GQUJH913YTT45LP6FTRGRYF,A9WH91TYQX57,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:30:22+09:00,2024-03-20 17:16:54+09:00,2024-03-20 17:20:22+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3RANCT1ZVGKDCL24NVLQIPVYFH2UB7,A3IEIVMANWHX8R,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:30:28+09:00,2024-03-20 17:16:33+09:00,2024-03-20 17:20:28+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+38F71OA9GUZKCU9BJVG0A55PHTRMFP,A3B891IBP6VDBB,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:30:36+09:00,2024-03-20 17:15:51+09:00,2024-03-20 17:20:36+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>horror</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3YZ8UPK3VUPWMQUA1VHLT91GX22UCE,A24NQS098N2ZQL,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:31:03+09:00,2024-03-20 17:17:23+09:00,2024-03-20 17:21:03+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+338JKRMM2723OPRSHIEV4ZM23RFHAY,A2C3OJAE5J26RG,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:31:05+09:00,2024-03-20 17:16:07+09:00,2024-03-20 17:21:05+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3ZPBJO59KQ41MWU41S5XU0U8OUCHD0,A2MWN1PCJ4KUQ4,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:31:05+09:00,2024-03-20 17:17:01+09:00,2024-03-20 17:21:05+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>idk</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3L70J4KAZHPMC9MQVMV5DE74BZMADI,A17532W60T5FAM,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:31:06+09:00,2024-03-20 17:15:44+09:00,2024-03-20 17:21:06+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+33F859I567G87ZWKNWERZA68L90HBT,A30MI7BNWFV909,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:31:19+09:00,2024-03-20 17:16:40+09:00,2024-03-20 17:21:19+09:00,2024-03-20 17:31:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+37XITHEISXC46Y2TX1MGOYEWQ3YCRS,A1IKQL0EDIDW9E,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:31:28+09:00,2024-03-20 17:16:25+09:00,2024-03-20 17:21:28+09:00,2024-03-20 17:32:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3YWRV122CT2UAN4XKJ1GRN5X7BHU88,A17MGZS0VHASVY,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:32:40+09:00,2024-03-20 17:16:03+09:00,2024-03-20 17:22:40+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3KJYX6QCMAEJ7JPGGD8CCZGU1TKJV6,A2YN685JW76YMR,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:33:03+09:00,2024-03-20 17:16:51+09:00,2024-03-20 17:23:03+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3R3YRB5GRG68TBXCHHLUNEBSXZHUAC,A3F8X1JN9U7A7D,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:33:05+09:00,2024-03-20 17:16:45+09:00,2024-03-20 17:23:05+09:00,2024-03-20 17:33:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+34PGFRQONPEWM8PL6ND8Y1Z882MJWG,A2OTAC9VQGAWH4,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:33:37+09:00,2024-03-20 17:17:10+09:00,2024-03-20 17:23:37+09:00,2024-03-20 17:34:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>350</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>renewable</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1
+AssignmentId,WorkerId,HITId,AssignmentStatus,AutoApprovalTime,AcceptTime,SubmitTime,ApprovalTime,Answer,score
+3R2UR8A0IBJPCJL8W51Z8GU1GY2OXX,A30LQLL184QSBS,3OND0WXMHXI4RIAA7LBFCYGZ476HEC,Approved,2024-03-20 17:34:36+09:00,2024-03-20 17:17:22+09:00,2024-03-20 17:24:36+09:00,2024-03-20 17:35:21+09:00,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<QuestionFormAnswers xmlns=""http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd"">
+<Answer>
+<QuestionIdentifier>viewingHours</QuestionIdentifier>
+<SelectionIdentifier>50</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>factCheck</QuestionIdentifier>
+<SelectionIdentifier>store</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>song</QuestionIdentifier>
+<SelectionIdentifier>sad</SelectionIdentifier>
+</Answer>
+</QuestionFormAnswers>
+",task1

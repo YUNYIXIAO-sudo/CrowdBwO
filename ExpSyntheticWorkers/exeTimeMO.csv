@@ -1,0 +1,21 @@
+, , , , , , , , , ,
+Time,7.2368011569976805,workergroup,0,exp,0,trials,7.34,modelTrain,1.48
+Time,12.397039279937744,workergroup,0,exp,1,trials,8.66,modelTrain,2.66
+Time,12.903074855804443,workergroup,0,exp,2,trials,8.8,modelTrain,2.76
+Time,12.960095701217652,workergroup,0,exp,3,trials,9.06,modelTrain,2.76
+Time,13.836237163543702,workergroup,0,exp,4,trials,9.84,modelTrain,2.94
+Time,15.011219162940979,workergroup,0,exp,5,trials,12.04,modelTrain,3.16
+Time,16.927824659347536,workergroup,0,exp,6,trials,15.3,modelTrain,3.52
+Time,19.448764700889587,workergroup,0,exp,7,trials,19.06,modelTrain,4.0
+Time,20.52812056064606,workergroup,0,exp,8,trials,21.0,modelTrain,4.2
+Time,22.067914361953736,workergroup,0,exp,9,trials,22.2,modelTrain,4.48
+Time,4.550821719169616,workergroup,1,exp,0,trials,4.72,modelTrain,1.0
+Time,4.545624098777771,workergroup,1,exp,1,trials,4.98,modelTrain,1.0
+Time,4.659046139717102,workergroup,1,exp,2,trials,5.26,modelTrain,1.02
+Time,6.13744882106781,workergroup,1,exp,3,trials,6.06,modelTrain,1.32
+Time,8.791246738433838,workergroup,1,exp,4,trials,7.24,modelTrain,1.86
+Time,10.580496377944947,workergroup,1,exp,5,trials,7.86,modelTrain,2.22
+Time,11.498913435935973,workergroup,1,exp,6,trials,8.36,modelTrain,2.4
+Time,14.057430338859557,workergroup,1,exp,7,trials,10.56,modelTrain,2.9
+Time,15.885038623809814,workergroup,1,exp,8,trials,13.44,modelTrain,3.24
+Time,17.520385165214538,workergroup,1,exp,9,trials,15.66,modelTrain,3.54

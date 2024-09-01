@@ -1,0 +1,36 @@
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2017-11-06/QuestionForm.xsd">
+
+  <Overview>
+    <Title>Please answer the following qualification question to be allowed to accept the HIT.</Title>
+    <Text>
+      Answer the question without searching for any information on the Internet.
+    </Text>
+  </Overview>
+
+  <Question>
+    <QuestionIdentifier>viewingHours</QuestionIdentifier>
+    <DisplayName>The qualification question</DisplayName>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <Text>
+        Til 2023/04/04, how many total viewing hours do you think the TV series The Night Agent had?
+      </Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>50</SelectionIdentifier>
+            <Text>50 million ~ 100 million</Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>350</SelectionIdentifier>
+            <Text>350 million ~ 400 million</Text>
+          </Selection>
+        </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+
+</QuestionForm>
