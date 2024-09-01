@@ -294,7 +294,7 @@ f = open('./exeTimeMO.csv', mode='a')
 for i in range(para.workerGroupsNumber):    
     workerset = i
 
-    '''
+    
     f = open('./expAVEResults/CrowdBwO-S2averageResultsWS' + str(i) + '.csv', mode='w')
     f2 = open('./expAVETimeModelResults/CrowdBwO-S2TimeModelAverageResultsWS' + str(i) + '.csv', mode='w')
     
@@ -317,7 +317,7 @@ for i in range(para.workerGroupsNumber):
     f2.write(index)
     f.close()
     f2.close()
-    '''
+    
 
     for j in range(para.expNumber):
         experiment = j
@@ -328,7 +328,7 @@ for i in range(para.workerGroupsNumber):
             si = simulation()
 
             selectedArmsR, rewardsR, pulledR, budgetR, tR, thetas0R, thetas_std0R, thetas1R, thetas_std1R, thetas2R, thetas_std2R, thetas3R, thetas_std3R, cutTimeR, countCutTimeR, m, modelTrain = si.sim(TB_MOUCBalgorithm)
-            '''
+            
             expN = len(tR) * [[experiment]]
             
             results = np.hstack((np.array(selectedArmsR), rewardsR, pulledR, np.array(budgetR), np.array(tR), expN))
@@ -346,7 +346,7 @@ for i in range(para.workerGroupsNumber):
             df = pd.DataFrame([timeModelAverageResults])
             
             df.to_csv('./expAVETimeModelResults/CrowdBwO-S2TimeModelAverageResultsWS' + str(i) + '.csv', mode='a', index=False, header=False)
-            '''
+            
 
             timeFinish = time.time()
             timeExe = timeFinish - timeStart
